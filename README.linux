@@ -1,0 +1,2 @@
+Compile:
+	g++ -o ball *.cpp -lglut -lGLU -lSDL
